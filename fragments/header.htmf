@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type="text/css" href="/assets/style.css" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png" />
+		<link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+		<link rel="manifest" href="/assets/site.webmanifest" />
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<title>KDLP</title>
+	</head>
+	<body>
+		<div class="logo">
+			<img src="/images/kdlp_logo.png" class="logo" alt="[KDLP] logo" />
+			<h1 class="title" >Kernel Development Learning Pipeline</h1>
+		</div>
+
+		<hr>
+		<div class="nav">
+			<a class="nav" href="/">Home</a>
+			<a class="nav" href="/course/index.html">Courses</a>
+			<a class="nav" href="/faq.html">FAQ</a>
+		</div>
+		<hr>
