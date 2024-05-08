@@ -21,9 +21,17 @@ $(1): $(2) $(HEADER) $(FOOTER)
 	fi
 endef
 
+DETECT_DUPLICATES = $(if $(filter $(words $1),$(words $(sort $1))),,$1)
+DEST_DUPLICATES := $(call DETECT_DUPLICATES,$(DEST_FILES))
+
 .PHONY: clean all
 
+ifeq ($(DEST_DUPLICATES),)
 all: $(DEST_FILES)
+else
+$(error Duplicate destination file detected, do not put a .md and .html file that\
+share a name in the same directory. [e.g. avoid src/index.html and src/index.md])
+endif
 
 $(foreach src_file, $(SRC_FILES),$(eval $(call CONVERT_template,\
 	$(patsubst %.md,%.html,$(subst $(SRC_DIR),$(DEST_DIR),$(src_file))),\
