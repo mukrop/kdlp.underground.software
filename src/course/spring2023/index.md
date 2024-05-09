@@ -34,21 +34,21 @@ Students will:
 
 |#| week starting|S|M|T|W|R|F|S|Initial Submissions due @ 23:59 (Mondays unless stated otherwise)|Reviews due @ 23:59 (Tuesdays unless stated otherwise)|Final Submissions due @ 23:59 (Wednesdays unless stated otherwise)|
 |--|--|--|--|--|--|--|--|--|--|--|--|
-|0| 15 Jan||||[L0](lectures/L0.md)||||[A0](assignments/A0.md) due Thursday|A0 due Friday|A0 due Saturday|
-|1| 22 Jan||[L1](lectures/L1.md)||[L2](lectures/L2.md)|||||||
-|2| 29 Jan||[L3](lectures/L3.md)||[L4](lectures/L4.md)||||[A1](assignments/A1.md), [A2](assignments/A2.md)|A1, A2|A1, A2|
-|3| 5 Feb||[L5](lectures/L5.md)||[L6](lectures/L6.md)|||||||
-|4| 12 Feb||[L7](lectures/L7.md)||[L8](lectures/L8.md)||||[A3](assignments/A3.md)|A3|A3|
-|5| 19 Feb|||[L9](lectures/L9.md)|[L10](lectures/L10.md)||||[A4](assignments/A4.md) due Tuesday|A4 due Wednesday|A4 due Thursday|
-|6| 26 Feb||[L11](lectures/L11.md)||[L12](lectures/L12.md)||||[Choose Mid Pres Topic](assignments/mid_pres_guide.md)|||
+|0| 15 Jan||||[L0](lectures/L0.html)||||[A0](assignments/A0.html) due Thursday|A0 due Friday|A0 due Saturday|
+|1| 22 Jan||[L1](lectures/L1.html)||[L2](lectures/L2.html)|||||||
+|2| 29 Jan||[L3](lectures/L3.html)||[L4](lectures/L4.html)||||[A1](assignments/A1.html), [A2](assignments/A2.html)|A1, A2|A1, A2|
+|3| 5 Feb||[L5](lectures/L5.html)||[L6](lectures/L6.html)|||||||
+|4| 12 Feb||[L7](lectures/L7.html)||[L8](lectures/L8.html)||||[A3](assignments/A3.html)|A3|A3|
+|5| 19 Feb|||[L9](lectures/L9.html)|[L10](lectures/L10.html)||||[A4](assignments/A4.html) due Tuesday|A4 due Wednesday|A4 due Thursday|
+|6| 26 Feb||[L11](lectures/L11.html)||[L12](lectures/L12.html)||||[Choose Mid Pres Topic](assignments/mid_pres_guide.html)|||
 |7| 5 Mar||||||||BREAK|BREAK|BREAK|
-|8| 12 Mar||[L13](lectures/L13.md)||[L14](lectures/L14.md)||||[Mid Pres Recording](assignments/mid_pres_guide.md)|||
-|9| 19 Mar||[L15](lectures/L15.md)||[L16](lectures/L16.md)||||[A5](assignments/A5.md)|A5|A5|
-|10| 26 Mar||[L17](lectures/L17.md)||[L18](lectures/L18.md)|||||||
-|11| 2 Apr||[L19](lectures/L19.md)||[L20](lectures/L20.md)||||[A6](assignments/A6.md)|A6|A6|
-|12| 9 Apr||[L21](lectures/L21.md)||[L22](lectures/L22.md)|||||||
-|13| 16 Apr||[L23](lectures/L23.md)||[L24](lectures/L24.md)||||[Fin1](assignments/fin1.md)|Fin1|Fin1|
-|14| 23 Apr||[F0](lectures/F0.md)||[F1](lectures/F1.md)||||[Final Presentation Guidelines](assignments/final_pres_guide.md)|||
-|15| 30 Apr||[F2](lectures/F2.md)||||||[Fin2](assignments/fin2.md)|Fin2|Fin2|
+|8| 12 Mar||[L13](lectures/L13.html)||[L14](lectures/L14.html)||||[Mid Pres Recording](assignments/mid_pres_guide.html)|||
+|9| 19 Mar||[L15](lectures/L15.html)||[L16](lectures/L16.html)||||[A5](assignments/A5.html)|A5|A5|
+|10| 26 Mar||[L17](lectures/L17.html)||[L18](lectures/L18.html)|||||||
+|11| 2 Apr||[L19](lectures/L19.html)||[L20](lectures/L20.html)||||[A6](assignments/A6.html)|A6|A6|
+|12| 9 Apr||[L21](lectures/L21.html)||[L22](lectures/L22.html)|||||||
+|13| 16 Apr||[L23](lectures/L23.html)||[L24](lectures/L24.html)||||[Fin1](assignments/fin1.html)|Fin1|Fin1|
+|14| 23 Apr||[F0](lectures/F0.html)||[F1](lectures/F1.html)||||[Final Presentation Guidelines](assignments/final_pres_guide.html)|||
+|15| 30 Apr||[F2](lectures/F2.html)||||||[Fin2](assignments/fin2.html)|Fin2|Fin2|
 
-[Course Policies](policies/course_policies.md) | [Submission Guidelines](policies/submission_guidelines.md) | [Peer Review Process](policies/peer_review.md)
+[Course Policies](policies/course_policies.html) | [Submission Guidelines](policies/submission_guidelines.html) | [Peer Review Process](policies/peer_review.html)

@@ -1,28 +1,28 @@
 ## Pre-requisites
-[A(-1)](course_application.md)
+[A(-1)](course_application.html)
 
 ## Assignments
 
-[A0](A0.md)
+[A0](A0.html)
 
-[A1](A1.md)
+[A1](A1.html)
 
-[A2](A2.md)
+[A2](A2.html)
 
-[A3](A3.md)
+[A3](A3.html)
 
-[A4](A4.md)
+[A4](A4.html)
 
-[A5](A5.md)
+[A5](A5.html)
 
-[A6](A6.md)
+[A6](A6.html)
 
-[Fin1](fin1.md)
+[Fin1](fin1.html)
 
-[Fin2](fin2.md)
+[Fin2](fin2.html)
 
 ## Presentations
 
-[P0](P0.md)
+[P0](P0.html)
 
-[P1](P1.md)
+[P1](P1.html)
